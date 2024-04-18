@@ -1,0 +1,4049 @@
+{
+  "_Primitive Color/Mode 1": {
+    "Cerulean Blue": {
+      "50": {
+        "value": "#f0f6ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#dae9ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#bed9ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#91c2ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#5ea0fc",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#387bf9",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#225cee",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#1a47db",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#1c3bb1",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#1c368c",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#162255",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Shuttle gray": {
+      "50": {
+        "value": "#f5f6fa",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#edeff2",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#d8dae0",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#b4b9c8",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#8a94a6",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#667085",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#565e73",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#464c5e",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#393e4d",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#323640",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#25282e",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "00": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Smoke": {
+      "50": {
+        "value": "#f5f6f6",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#e6e7e7",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#cfd2d2",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#aeb2b2",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#858b8a",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#6a706f",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#5b5f5f",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#4d5151",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#444645",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#3c3d3d",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#191a1a",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Red": {
+      "50": {
+        "value": "#fff0f0",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#ffdedd",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#ffc2c1",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#ff9795",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#ff5c59",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#ff2925",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#ed0602",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#d50400",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#b00704",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#910d0b",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#500100",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Pumpkin": {
+      "50": {
+        "value": "#fff7ed",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#ffeed5",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#ffd9a9",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#febd73",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#fd973a",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#fb7209",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#ec5c0a",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#c4440a",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#9b3611",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#7d3011",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#441506",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Amber": {
+      "50": {
+        "value": "#fffeea",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#fffbc5",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#fff886",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#ffee46",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#ffdf1c",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#febf01",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#e19400",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#bb6902",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#975009",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#7c420b",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#482200",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Yellow": {
+      "50": {
+        "value": "#fcffe7",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#f6ffc1",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#f2ff86",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#f3ff41",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#fcff0e",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#fef501",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#d0b700",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#a68502",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#89670a",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#74540f",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#442d04",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Lime": {
+      "50": {
+        "value": "#fbffe4",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#f6ffc4",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#ebff90",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#d9ff51",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#c1fe0b",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#a6e500",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#80b700",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#618b00",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#4d6d07",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#415c0b",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#213400",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Green": {
+      "50": {
+        "value": "#e6ffe6",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#c8ffca",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#98fe9b",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#5afa65",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#29f237",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#0bd618",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#03ab0f",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#088210",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#0d6613",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#0e5413",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#033006",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Jungle": {
+      "50": {
+        "value": "#effefa",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#c9fef4",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#92fde9",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#54f4dd",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#21e0ca",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#08c4b1",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#049d92",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#088179",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#0c635f",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#0f524f",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#013232",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Emerald": {
+      "50": {
+        "value": "#effef7",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#dafeee",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#b7fbdd",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#80f5c3",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#41e7a1",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#1ae08d",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#0dac6a",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#0e8755",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#116a46",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#10573b",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#023120",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Turquoise": {
+      "50": {
+        "value": "#effefc",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#c7fff7",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#8ffff1",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#4efaea",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#18e2d5",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#02cac0",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#00a39e",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#038280",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#086767",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#0c5554",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#003234",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Cyan": {
+      "50": {
+        "value": "#ecfeff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#cefcff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#a3f6fe",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#63edfd",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#1ddaf3",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#01cae9",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#0496b6",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#0b7893",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#136077",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#145065",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#073545",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Sky Blue": {
+      "50": {
+        "value": "#edfdfe",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#d0f5fd",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#a7eafa",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#5dd6f4",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#28bfe8",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#0ca2ce",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#0d81ad",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#12688c",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#185672",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#184761",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#0a2d42",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Denim": {
+      "50": {
+        "value": "#ecfaff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#d5f3ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#b3ecff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#7fe2ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#44ceff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#18b0ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#0091ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#0079fb",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#035bbf",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#0a539e",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#0c325f",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Blue": {
+      "50": {
+        "value": "#eef3ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#d9e3ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#bccfff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#8eb1ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#5986ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#2954ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#1b38f5",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#1425e1",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#1720b6",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#19228f",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#141757",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Purple": {
+      "50": {
+        "value": "#f6f0ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#efe4ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#e0cdff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#cca5ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#b672ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#a33aff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#9e12ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#9400ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#7d00d7",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#5f02a2",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#3f0078",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Violet": {
+      "50": {
+        "value": "#f4f2ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#ede7ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#dcd2ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#c3afff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#a681ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#8c4eff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#761cfd",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#7018e9",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#5d14c3",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#4e12a0",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#2f086d",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Fuchsia": {
+      "50": {
+        "value": "#fef3ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#fae6ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#f5ccff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#f1a4ff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#ea6eff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#d71cfd",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#c317e2",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#a510bb",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#890f99",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#73127d",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#4d0054",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Pink": {
+      "50": {
+        "value": "#fef1f9",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#fee5f5",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#ffcbee",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#ffa0dd",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#ff65c5",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#fc38aa",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#e21281",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#ce086c",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#aa0a58",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#8d0e4c",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#57002b",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "French Rose": {
+      "50": {
+        "value": "#fff0f3",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#ffe2e9",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#ffcad8",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#ff9fb8",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#ff6993",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#ff427b",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#ed115e",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#c80850",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#a8094a",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#8f0c45",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#500121",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Crimson": {
+      "50": {
+        "value": "#fff0f2",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#ffdee3",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#ffc2cc",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#ff98a9",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#ff5d78",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#ff2a4d",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#f70b32",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#e6052a",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#ac0823",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#8e0e23",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#4e010e",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "white Tint": {
+      "whiteTint00": {
+        "value": "#ffffff00",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "whiteTint010": {
+        "value": "#ffffff1a",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "whiteTint020": {
+        "value": "#ffffff33",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "whiteTint030": {
+        "value": "#ffffff4d",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "whiteTint040": {
+        "value": "#ffffff66",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "whiteTint050": {
+        "value": "#ffffff80",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "whiteTint060": {
+        "value": "#ffffff99",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "whiteTint070": {
+        "value": "#ffffffb3",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "whiteTint080": {
+        "value": "#ffffffcc",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "whiteTint090": {
+        "value": "#ffffffe6",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "whiteTint0100": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "black Tint": {
+      "blackTint00": {
+        "value": "#00000000",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "blackTint010": {
+        "value": "#0000001a",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "blackTint020": {
+        "value": "#00000033",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "blackTint030": {
+        "value": "#0000004d",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "blackTint040": {
+        "value": "#00000066",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "blackTint050": {
+        "value": "#00000080",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "blackTint060": {
+        "value": "#00000099",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "blackTint070": {
+        "value": "#000000b3",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "blackTint080": {
+        "value": "#000000cc",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "blackTint090": {
+        "value": "#000000e6",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "blackTint0100": {
+        "value": "#000000",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    },
+    "Charcoal": {
+      "50": {
+        "value": "#f7f7f8",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "100": {
+        "value": "#edeef1",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "200": {
+        "value": "#d8dbdf",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "300": {
+        "value": "#b6bbc3",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "400": {
+        "value": "#8e95a2",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "500": {
+        "value": "#747b87",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "600": {
+        "value": "#5a616f",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "700": {
+        "value": "#4a505a",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "800": {
+        "value": "#3f444d",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "900": {
+        "value": "#2f3238",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      },
+      "950": {
+        "value": "#222429",
+        "type": "color",
+        "parent": "_Primitive Color/Mode 1",
+        "description": ""
+      }
+    }
+  },
+  "2. Token/Light": {
+    "Color": {
+      "Badge": {
+        "White": {
+          "Status Color": {
+            "value": "{Colors.Gray.800}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Bg Color": {
+            "value": "{Colors.White.100%}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Icon Color": {
+            "value": "{Colors.Gray.800}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Close Icon Color": {
+            "value": "{Colors.Gray.500}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Placeholder Color": {
+            "value": "{Text.Title Color}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Close Bg Color": {
+            "value": "{Colors.Gray.200}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          }
+        },
+        "Border Color": {
+          "value": "{Border.Border Color}",
+          "type": "color",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Close Bg Color": {
+          "value": "{Colors.Gray.300}",
+          "type": "color",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Close Icon Color": {
+          "value": "{Colors.Gray.500}",
+          "type": "color",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Icon Color": {
+          "value": "{Colors.Gray.500}",
+          "type": "color",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Status Color": {
+          "value": "{Colors.Gray.500}",
+          "type": "color",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Placeholder Color": {
+          "value": "{Colors.Gray.500}",
+          "type": "color",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Badge": {
+          "value": "Badge",
+          "type": "text",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Status Border Radius": {
+          "value": "{Border Radius.Full}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Spacing Y": {
+          "value": "{Utilities.Spacing.1_5}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Border Radius": {
+          "value": "{Border Radius.MD}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Close Icon Size": {
+          "value": "0.9375rem",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Placeholder Gap Between": {
+          "value": "0.4375rem",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Gap Between": {
+          "value": "{Utilities.Spacing.px}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Avatar Size": {
+          "value": "{Utilities.Height.4}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Avatar Border Radius": {
+          "value": "{Border Radius.Full}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Placeholder Spacing X": {
+          "value": "{Utilities.Spacing.1}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Icon Size": {
+          "value": "{Utilities.Height.3}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Spacing X": {
+          "value": "{Utilities.Spacing.1_5}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Close Border Radius": {
+          "value": "{Border Radius.Full}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        }
+      },
+      "Avatar": {
+        "Placeholder Color": {
+          "value": "{Text.Title Color}",
+          "type": "color",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Solid": {
+          "Light": {
+            "Placeholder Color": {
+              "value": "{Colors.Gray.800}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Gray": {
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.Gray.500}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Blue": {
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Text.Brand Color}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Yellow": {
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.Yellow.500}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Red": {
+            "Bg Color": {
+              "value": "{Colors.Red.500}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Green": {
+            "Bg Color": {
+              "value": "{Colors.Teal.500}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Dark": {
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.Gray.800}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          }
+        },
+        "Soft": {
+          "Gray": {
+            "Bg Color": {
+              "value": "{Colors.Gray.50}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Blue": {
+            "Placeholder Color": {
+              "value": "{Colors.Blue.800}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.Blue.100}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Light": {
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.White.10%}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Dark": {
+            "Placeholder Color": {
+              "value": "{Colors.Gray.800}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.Gray.100}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Yellow": {
+            "Placeholder Color": {
+              "value": "{Colors.Yellow.800}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.Yellow.100}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Green": {
+            "Bg Color": {
+              "value": "{Colors.Teal.100}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Colors.Teal.800}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Red": {
+            "Bg Color": {
+              "value": "{Colors.Red.100}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Colors.Red.800}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          }
+        },
+        "Status": {
+          "Online Color": {
+            "value": "{Colors.Teal.500}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Icon Color": {
+            "value": "{Text.Brand Color}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Away Color": {
+            "value": "{Colors.Yellow.500}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Offline Color": {
+            "value": "{Colors.Gray.500}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Border Color": {
+            "value": "{Colors.White.100%}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Do Not Disturb Color": {
+            "value": "{Colors.Red.500}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          }
+        },
+        "White": {
+          "Bg Color": {
+            "value": "{Colors.White.100%}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Border Color": {
+            "value": "{Border.Border Color}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Placeholder Color": {
+            "value": "{Text.Title Color}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          }
+        },
+        "Bg Color": {
+          "value": "{Colors.Gray.500}",
+          "type": "color",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Outline": {
+          "Green": {
+            "Border Color": {
+              "value": "{Colors.Teal.500}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Components.Avatar.Outline.Green.Border Color}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Bg Color": {
+            "value": "{Colors.White.100%}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Light": {
+            "Placeholder Color": {
+              "value": "{Components.Avatar.Outline.Light.Border Color}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Border Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Yellow": {
+            "Placeholder Color": {
+              "value": "{Components.Avatar.Outline.Yellow.Border Color}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Border Color": {
+              "value": "{Colors.Yellow.500}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Red": {
+            "Border Color": {
+              "value": "{Colors.Red.500}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Components.Avatar.Outline.Red.Border Color}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Dark": {
+            "Border Color": {
+              "value": "{Colors.Gray.800}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Components.Avatar.Outline.Dark.Border Color}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Gray": {
+            "Border Color": {
+              "value": "{Colors.Gray.500}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Components.Avatar.Outline.Gray.Border Color}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          },
+          "Blue": {
+            "Border Color": {
+              "value": "{Colors.Blue.500}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          }
+        },
+        "Initial-XS": {
+          "value": "A",
+          "type": "text",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Initial-Default": {
+          "value": "A",
+          "type": "text",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Initial-SM": {
+          "value": "A",
+          "type": "text",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Initial-LG": {
+          "value": "A",
+          "type": "text",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Border Radius": {
+          "value": "{Border Radius.LG}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Status Size XS": {
+          "value": "{Utilities.Width.1_5}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Avatar SM": {
+          "value": "2.375rem",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Avatar LG": {
+          "value": "3.875rem",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Status Size SM": {
+          "value": "{Utilities.Width.2_5}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Status Size": {
+          "value": "{Utilities.Width.3}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Status Size LG": {
+          "value": "{Utilities.Width.3_5}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Avatar XS": {
+          "value": "1.625rem",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Avatar": {
+          "value": "2.875rem",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        },
+        "Circular Border Radius": {
+          "value": "{Border Radius.Full}",
+          "type": "dimension",
+          "parent": "2. Token/Light",
+          "description": ""
+        }
+      },
+      "Button": {
+        "borderColor": {
+          "default": {
+            "primary": {
+              "value": "{Color.BgColor.default.brand}",
+              "type": "color",
+              "parent": "2. Token/Light",
+              "description": ""
+            }
+          }
+        },
+        "BgColor": {
+          "Brand-default": {
+            "value": "{Color.BgColor.default.brand}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "Success-default": {
+            "value": "{Color.BgColor.default.brand}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          }
+        }
+      },
+      "BgColor": {
+        "default": {
+          "brand": {
+            "value": "{Color.Primary.700}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "surface": {
+            "value": "{white Tint.whiteTint0100}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          }
+        },
+        "hover": {
+          "brand": {
+            "value": "{Color.Primary.600}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          }
+        },
+        "actived": {
+          "brand": {
+            "value": "{Color.Primary.800}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          }
+        }
+      },
+      "Text": {
+        "Brand": {
+          "default": {
+            "value": "{Color.Primary.700}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "hover": {
+            "value": "{Color.Primary.600}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{Color.Primary.800}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "disable": {
+            "value": "{Color.Primary.300}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          }
+        },
+        "Success": {
+          "default": {
+            "value": "{Color.Success.700}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "hover": {
+            "value": "{Color.Success.600}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{Color.Success.800}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "disable": {
+            "value": "{Color.Success.100}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          }
+        },
+        "Warning": {
+          "default": {
+            "value": "{Color.Success.700}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "hover": {
+            "value": "{Color.Success.600}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "pressed": {
+            "value": "{Color.Success.800}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          },
+          "disable": {
+            "value": "{Color.Success.100}",
+            "type": "color",
+            "parent": "2. Token/Light",
+            "description": ""
+          }
+        }
+      },
+      "Lists": {
+        "Separator": {
+          "Width": {
+            "value": "{Utilities.Width.1_5}",
+            "type": "dimension",
+            "parent": "2. Token/Light",
+            "description": ""
+          }
+        }
+      }
+    },
+    "brand": {
+      "value": "{Color.Primary.700}",
+      "type": "color",
+      "parent": "2. Token/Light",
+      "description": ""
+    },
+    "primary": {
+      "value": "{Color.Primary.600}",
+      "type": "color",
+      "parent": "2. Token/Light",
+      "description": ""
+    },
+    "Radius": {
+      "Default": {
+        "value": "{Size.size-12}",
+        "type": "dimension",
+        "parent": "2. Token/Light",
+        "description": ""
+      }
+    }
+  },
+  "2. Token/Dark": {
+    "Color": {
+      "Badge": {
+        "White": {
+          "Status Color": {
+            "value": "{Colors.Gray.200}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Bg Color": {
+            "value": "{Colors.Gray.800}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Icon Color": {
+            "value": "{Colors.Gray.200}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Close Icon Color": {
+            "value": "{Colors.Gray.400}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Placeholder Color": {
+            "value": "{Text.Title Color}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Close Bg Color": {
+            "value": "{Colors.Gray.700}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          }
+        },
+        "Border Color": {
+          "value": "{Border.Border Color}",
+          "type": "color",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Close Bg Color": {
+          "value": "{Colors.Gray.700}",
+          "type": "color",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Close Icon Color": {
+          "value": "{Colors.Gray.500}",
+          "type": "color",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Icon Color": {
+          "value": "{Colors.Gray.500}",
+          "type": "color",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Status Color": {
+          "value": "{Colors.Gray.500}",
+          "type": "color",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Placeholder Color": {
+          "value": "{Colors.Gray.500}",
+          "type": "color",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Badge": {
+          "value": "Badge",
+          "type": "text",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Status Border Radius": {
+          "value": "{Border Radius.Full}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Spacing Y": {
+          "value": "{Utilities.Spacing.1_5}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Border Radius": {
+          "value": "{Border Radius.MD}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Close Icon Size": {
+          "value": "0.9375rem",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Placeholder Gap Between": {
+          "value": "0.4375rem",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Gap Between": {
+          "value": "{Utilities.Spacing.px}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Avatar Size": {
+          "value": "{Utilities.Height.4}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Avatar Border Radius": {
+          "value": "{Border Radius.Full}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Placeholder Spacing X": {
+          "value": "{Utilities.Spacing.1}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Icon Size": {
+          "value": "{Utilities.Height.3}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Spacing X": {
+          "value": "{Utilities.Spacing.1_5}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Close Border Radius": {
+          "value": "{Border Radius.Full}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        }
+      },
+      "Avatar": {
+        "Placeholder Color": {
+          "value": "{Text.Title Color}",
+          "type": "color",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Solid": {
+          "Light": {
+            "Placeholder Color": {
+              "value": "{Colors.Gray.800}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Gray": {
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.Gray.400}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Blue": {
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Text.Brand Color}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Yellow": {
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.Yellow.500}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Red": {
+            "Bg Color": {
+              "value": "{Colors.Red.500}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Green": {
+            "Bg Color": {
+              "value": "{Colors.Teal.500}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Dark": {
+            "Placeholder Color": {
+              "value": "{Colors.Gray.800}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Soft": {
+          "Gray": {
+            "Bg Color": {
+              "value": "{Colors.White.5%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Blue": {
+            "Placeholder Color": {
+              "value": "{Colors.Blue.500}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.Soft.Blue}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Light": {
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.White.10%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Dark": {
+            "Placeholder Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.White.10%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Yellow": {
+            "Placeholder Color": {
+              "value": "{Colors.Yellow.500}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Bg Color": {
+              "value": "{Colors.Soft.Yellow}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Green": {
+            "Bg Color": {
+              "value": "{Colors.Soft.Green}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Colors.Teal.500}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Red": {
+            "Bg Color": {
+              "value": "{Colors.Soft.Red}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Colors.Red.500}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Status": {
+          "Online Color": {
+            "value": "{Colors.Teal.500}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Icon Color": {
+            "value": "{Text.Brand Color}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Away Color": {
+            "value": "{Colors.Yellow.500}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Offline Color": {
+            "value": "{Colors.Gray.500}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Border Color": {
+            "value": "{Colors.White.100%}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Do Not Disturb Color": {
+            "value": "{Colors.Red.500}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          }
+        },
+        "White": {
+          "Bg Color": {
+            "value": "{Colors.Gray.800}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Border Color": {
+            "value": "{Border.Border Color}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Placeholder Color": {
+            "value": "{Text.Title Color}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          }
+        },
+        "Bg Color": {
+          "value": "{Colors.Gray.500}",
+          "type": "color",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Outline": {
+          "Green": {
+            "Border Color": {
+              "value": "{Colors.Teal.500}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Components.Avatar.Outline.Green.Border Color}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Bg Color": {
+            "value": "{Colors.Slate.900}",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Light": {
+            "Placeholder Color": {
+              "value": "{Components.Avatar.Outline.Light.Border Color}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Border Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Yellow": {
+            "Placeholder Color": {
+              "value": "{Components.Avatar.Outline.Yellow.Border Color}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Border Color": {
+              "value": "{Colors.Yellow.500}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Red": {
+            "Border Color": {
+              "value": "{Colors.Red.500}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Components.Avatar.Outline.Red.Border Color}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Dark": {
+            "Border Color": {
+              "value": "{Colors.White.100%}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Components.Avatar.Outline.Dark.Border Color}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Gray": {
+            "Border Color": {
+              "value": "{Colors.Gray.500}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            },
+            "Placeholder Color": {
+              "value": "{Components.Avatar.Outline.Gray.Border Color}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          },
+          "Blue": {
+            "Border Color": {
+              "value": "{Colors.Blue.500}",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Initial-XS": {
+          "value": "A",
+          "type": "text",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Initial-Default": {
+          "value": "A",
+          "type": "text",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Initial-SM": {
+          "value": "A",
+          "type": "text",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Initial-LG": {
+          "value": "A",
+          "type": "text",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Border Radius": {
+          "value": "{Border Radius.LG}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Status Size XS": {
+          "value": "{Utilities.Width.1_5}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Avatar SM": {
+          "value": "2.375rem",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Avatar LG": {
+          "value": "3.875rem",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Status Size SM": {
+          "value": "{Utilities.Width.2_5}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Status Size": {
+          "value": "{Utilities.Width.3}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Status Size LG": {
+          "value": "{Utilities.Width.3_5}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Avatar XS": {
+          "value": "1.625rem",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Avatar": {
+          "value": "2.875rem",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        },
+        "Circular Border Radius": {
+          "value": "{Border Radius.Full}",
+          "type": "dimension",
+          "parent": "2. Token/Dark",
+          "description": ""
+        }
+      },
+      "Button": {
+        "borderColor": {
+          "default": {
+            "primary": {
+              "value": "#ffffff",
+              "type": "color",
+              "parent": "2. Token/Dark",
+              "description": ""
+            }
+          }
+        },
+        "BgColor": {
+          "Brand-default": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "Success-default": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          }
+        }
+      },
+      "BgColor": {
+        "default": {
+          "brand": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "surface": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          }
+        },
+        "hover": {
+          "brand": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          }
+        },
+        "actived": {
+          "brand": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Text": {
+        "Brand": {
+          "default": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "hover": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "pressed": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "disable": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          }
+        },
+        "Success": {
+          "default": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "hover": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "pressed": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "disable": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          }
+        },
+        "Warning": {
+          "default": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "hover": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "pressed": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          },
+          "disable": {
+            "value": "#ffffff",
+            "type": "color",
+            "parent": "2. Token/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Lists": {
+        "Separator": {
+          "Width": {
+            "value": "{Utilities.Width.1_5}",
+            "type": "dimension",
+            "parent": "2. Token/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "brand": {
+      "value": "#ffffff",
+      "type": "color",
+      "parent": "2. Token/Dark",
+      "description": ""
+    },
+    "primary": {
+      "value": "#ffffff",
+      "type": "color",
+      "parent": "2. Token/Dark",
+      "description": ""
+    },
+    "Radius": {
+      "Default": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "2. Token/Dark",
+        "description": ""
+      }
+    }
+  },
+  "Senematic Color/Mode 1": {
+    "Color": {
+      "Primary": {
+        "50": {
+          "value": "{Cerulean Blue.50}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "100": {
+          "value": "{Cerulean Blue.100}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "200": {
+          "value": "{Cerulean Blue.200}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "300": {
+          "value": "{Cerulean Blue.300}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "400": {
+          "value": "{Cerulean Blue.400}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "500": {
+          "value": "{Cerulean Blue.500}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "600": {
+          "value": "{Cerulean Blue.600}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "700": {
+          "value": "{Cerulean Blue.700}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "800": {
+          "value": "{Cerulean Blue.800}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "900": {
+          "value": "{Cerulean Blue.900}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "950": {
+          "value": "{Cerulean Blue.900}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        }
+      },
+      "Neutral": {
+        "50": {
+          "value": "{Charcoal.50}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "100": {
+          "value": "{Charcoal.100}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "200": {
+          "value": "{Charcoal.200}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "300": {
+          "value": "{Charcoal.300}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "400": {
+          "value": "{Charcoal.400}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "500": {
+          "value": "{Charcoal.500}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "600": {
+          "value": "{Charcoal.600}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "700": {
+          "value": "{Charcoal.700}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "800": {
+          "value": "{Charcoal.800}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "900": {
+          "value": "{Charcoal.900}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "950": {
+          "value": "{Charcoal.950}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        }
+      },
+      "Success": {
+        "50": {
+          "value": "{Green.50}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "100": {
+          "value": "{Green.100}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "200": {
+          "value": "{Green.200}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "300": {
+          "value": "{Green.300}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "400": {
+          "value": "{Green.400}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "500": {
+          "value": "{Green.500}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "600": {
+          "value": "{Green.600}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "700": {
+          "value": "{Green.700}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "800": {
+          "value": "{Green.800}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "900": {
+          "value": "{Green.900}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "950": {
+          "value": "{Green.950}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        }
+      },
+      "Warning": {
+        "50": {
+          "value": "{Amber.50}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "100": {
+          "value": "{Amber.100}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "200": {
+          "value": "{Amber.200}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "300": {
+          "value": "{Amber.300}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "400": {
+          "value": "{Amber.400}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "500": {
+          "value": "{Amber.500}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "600": {
+          "value": "{Amber.600}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "700": {
+          "value": "{Amber.700}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "800": {
+          "value": "{Amber.800}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "900": {
+          "value": "{Amber.900}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "950": {
+          "value": "{Amber.950}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        }
+      },
+      "Error": {
+        "50": {
+          "value": "{Crimson.50}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "100": {
+          "value": "{Crimson.100}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "200": {
+          "value": "{Crimson.200}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "300": {
+          "value": "{Crimson.300}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "400": {
+          "value": "{Crimson.400}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "500": {
+          "value": "{Crimson.500}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "600": {
+          "value": "{Crimson.600}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "700": {
+          "value": "{Crimson.700}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "800": {
+          "value": "{Crimson.800}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "900": {
+          "value": "{Crimson.900}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        },
+        "950": {
+          "value": "{Crimson.950}",
+          "type": "color",
+          "parent": "Senematic Color/Mode 1",
+          "description": ""
+        }
+      }
+    }
+  },
+  "Theme Spacing/Mode 1": {
+    "Gap": {
+      "gap-0,5": {
+        "value": "{Size.size-2}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "gap-1": {
+        "value": "{Size.size-4}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "gap-2": {
+        "value": "{Size.size-8}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "gap-3": {
+        "value": "{Size.size-12}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "gap-4": {
+        "value": "{Size.size-16}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "gap-6": {
+        "value": "{Size.size-24}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "gap-8": {
+        "value": "{Size.size-32}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "gap-10": {
+        "value": "{Size.size-40}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      }
+    },
+    "Margin": {
+      "margin-1": {
+        "value": "{Size.size-8}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "margin-2": {
+        "value": "{Size.size-16}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "margin-3": {
+        "value": "{Size.size-24}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "margin-4": {
+        "value": "{Size.size-32}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "margin-5": {
+        "value": "{Size.size-40}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "margin-6": {
+        "value": "{Size.size-48}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "margin-7": {
+        "value": "{Size.size-56}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "margin-8": {
+        "value": "{Size.size-64}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "margin-9": {
+        "value": "{Size.size-72}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "margin-10": {
+        "value": "{Size.size-80}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      },
+      "margin-12": {
+        "value": "{Size.size-96}",
+        "type": "dimension",
+        "parent": "Theme Spacing/Mode 1",
+        "description": ""
+      }
+    }
+  },
+  "_Global Size/Mode 1": {
+    "Size": {
+      "size-0": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-2": {
+        "value": "0.125rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-4": {
+        "value": "0.25rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-8": {
+        "value": "0.5rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-12": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-16": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-20": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-24": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-28": {
+        "value": "1.75rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-32": {
+        "value": "2rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-40": {
+        "value": "2.5rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-48": {
+        "value": "3rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-56": {
+        "value": "3.5rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-64": {
+        "value": "4rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-72": {
+        "value": "4.5rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-80": {
+        "value": "5rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-96": {
+        "value": "6rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-112": {
+        "value": "7rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-128": {
+        "value": "8rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-144": {
+        "value": "9rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-160": {
+        "value": "10rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-176": {
+        "value": "11rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-192": {
+        "value": "12rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-208": {
+        "value": "13rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-224": {
+        "value": "14rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-240": {
+        "value": "15rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-256": {
+        "value": "16rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-288": {
+        "value": "18rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-320": {
+        "value": "20rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-384": {
+        "value": "24rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-480": {
+        "value": "30rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-560": {
+        "value": "35rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-640": {
+        "value": "40rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-720": {
+        "value": "45rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-768": {
+        "value": "48rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-1024": {
+        "value": "64rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-1280": {
+        "value": "80rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-1440": {
+        "value": "90rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-1600": {
+        "value": "100rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "size-1920": {
+        "value": "120rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      }
+    },
+    "Alpha": {
+      "Alpha": {
+        "value": "0rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "Alpha 1": {
+        "value": "0.625rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "Alpha 2": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "Alpha 3": {
+        "value": "1.875rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "Alpha 4": {
+        "value": "2.5rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "Alpha 5": {
+        "value": "3.125rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "Alpha 6": {
+        "value": "3.75rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "Alpha 7": {
+        "value": "4.375rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "Alpha 8": {
+        "value": "5rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "Alpha 9": {
+        "value": "5.625rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      },
+      "Alpha 10": {
+        "value": "6.25rem",
+        "type": "dimension",
+        "parent": "_Global Size/Mode 1",
+        "description": ""
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "_Primitive Color/Mode 1",
+      "2. Token/Light",
+      "2. Token/Dark",
+      "Senematic Color/Mode 1",
+      "Theme Spacing/Mode 1",
+      "_Global Size/Mode 1"
+    ]
+  }
+}
