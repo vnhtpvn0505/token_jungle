@@ -1,5 +1,5 @@
 {
-  "_Primitive Color/Mode 1": {
+  "_Primitive Color": {
     "Cerulean Blue": {
       "50": {
         "value": "#f0f6ff",
@@ -64,7 +64,7 @@
       "950": {
         "value": "#162255",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       }
     },
@@ -72,31 +72,31 @@
       "50": {
         "value": "#f5f6fa",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "100": {
         "value": "#edeff2",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "200": {
         "value": "#d8dae0",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "300": {
         "value": "#b4b9c8",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "400": {
         "value": "#8a94a6",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "500": {
@@ -108,37 +108,37 @@
       "600": {
         "value": "#565e73",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "700": {
         "value": "#464c5e",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "800": {
         "value": "#393e4d",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "900": {
         "value": "#323640",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "950": {
         "value": "#25282e",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "00": {
         "value": "#ffffff",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       }
     },
@@ -146,67 +146,67 @@
       "50": {
         "value": "#f5f6f6",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "100": {
         "value": "#e6e7e7",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "200": {
         "value": "#cfd2d2",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "300": {
         "value": "#aeb2b2",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "400": {
         "value": "#858b8a",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "500": {
         "value": "#6a706f",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "600": {
         "value": "#5b5f5f",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "700": {
         "value": "#4d5151",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "800": {
         "value": "#444645",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "900": {
         "value": "#3c3d3d",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "950": {
         "value": "#191a1a",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       }
     },
@@ -214,7 +214,7 @@
       "50": {
         "value": "#fff0f0",
         "type": "color",
-        "parent": "_Primitive Color/Mode 1",
+        "parent": "_Primitive Color",
         "description": ""
       },
       "100": {
